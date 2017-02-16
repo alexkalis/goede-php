@@ -1,0 +1,15 @@
+body {
+	background-color: black;	
+	font-family: 'Bubblegum Sans';
+	background-repeat: no-repeat;
+}
+ 		
+br {
+	background-color: orange;
+}
+p {
+	text-align: center;
+	font-size: 80px;
+	color: white;
+text-shadow: -4px 3px 0 #3a50d9, -14px 7px 0 #0a0e27;;	
+}
